@@ -41,8 +41,3 @@ body {
   color: #6b7280;
   font-size: 14px;
 }
-
-.tarjeta.activa {
-border-top-color: #e0a100;
-transform: scale(1.03);
-}
