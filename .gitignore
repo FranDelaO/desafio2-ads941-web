@@ -1,0 +1,5 @@
+# Archivos que Git no debe versionar
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
